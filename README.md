@@ -6,7 +6,7 @@ or a manager.
 
 Technology used:
 
-Backend: Web API 2, Asp .Net Csharp, Entity Framework, Generic Repository Pattern, Rest API, Code First
+Backend: Web API 2, Asp .Net Csharp, Entity Framework(Code First), Generic Repository Pattern, Rest API, HATEOAS, Richardson Maturity Model (Level 3)
 Frontend: Javascript Library(JQuery), AJAX, HTML 5, CSS3, SCSS, Bootstrap4
 Database: MS SQL
 Decode/Encode: Base64
